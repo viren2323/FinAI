@@ -1,0 +1,7 @@
+{
+  "name": "FinSight AI - Bank Statement Analyzer",
+  "description": "An intelligent financial dashboard that parses bank statements using AI and provides a RAG-based conversational assistant for deep financial insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
